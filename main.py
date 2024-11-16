@@ -5,7 +5,7 @@ import threading
 import requests
 
 # Replace with your bot's token
-API_TOKEN = '7726534009:AAGGhxdbYH4p2M7mzfKNh8wVqo4bM3Ye530'
+API_TOKEN = 'Your Bot Token Goes Here'
 bot = telebot.TeleBot(API_TOKEN)
 
 # Dictionary to store file data with unique identifiers
